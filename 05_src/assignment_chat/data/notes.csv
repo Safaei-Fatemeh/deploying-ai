@@ -1,0 +1,13 @@
+id,title,text,source
+1,Learning Python,"Python is a beginner-friendly programming language widely used in data science, automation, and AI projects.",study_notes
+2,Prompt Engineering,"Prompt engineering is the practice of designing clear instructions and context so language models produce better outputs.",study_notes
+3,Embeddings,"Embeddings convert text into numerical vectors so semantic similarity can be measured.",study_notes
+4,Vector Databases,"Vector databases store embeddings and allow efficient similarity search for retrieval applications.",study_notes
+5,RAG,"Retrieval-augmented generation combines document retrieval with language model generation to produce grounded answers.",study_notes
+6,Model Evaluation,"LLM outputs can be evaluated for coherence, safety, faithfulness, and task-specific quality.",study_notes
+7,Guardrails,"Guardrails are rules or filters that restrict unsafe, off-topic, or disallowed model behavior.",study_notes
+8,Function Calling,"Function calling lets a language model decide when to use external tools or services.",study_notes
+9,APIs,"An API allows one software system to request data or services from another system.",study_notes
+10,Conversation Memory,"Conversation memory helps a chat system keep track of earlier user messages and respond consistently.",study_notes
+11,ChromaDB,"ChromaDB is a lightweight vector database often used for local semantic search applications.",study_notes
+12,Gradio,"Gradio is a Python library for quickly building browser-based interfaces for machine learning and AI apps.",study_notes
